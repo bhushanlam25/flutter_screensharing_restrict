@@ -17,7 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  untitled:
+  flutter_screensharing_restrict:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.

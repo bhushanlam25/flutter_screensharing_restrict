@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/FlutterScreensharingRestrict.dart';
+import 'package:flutter_screensharing_restrict/FlutterScreensharingRestrict.dart';
 
 
 void main() => runApp(MyApp());
