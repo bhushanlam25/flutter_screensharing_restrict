@@ -8,7 +8,8 @@ class FlutterScreensharingRestrict {
     try {
       final bool result = await platform.invokeMethod('checkScreenSharingApps');
       return result;
-    } on PlatformException catch (e) {
+    }   catch (e) {
+
      // print("Failed to check for screen sharing apps: ${e.message}");
       return false;
     }
