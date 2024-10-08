@@ -1,14 +1,13 @@
 name: flutter_screensharing_restrict
 description: A Flutter plugin to do something amazing.
 version: 0.0.1
-author: Bhushan Lambole <bhushanlam25@gmail.com>
 homepage: https://github.com/bhushanlam25/flutter_screensharing_restrict.git
 repository: https://github.com/bhushanlam25/flutter_screensharing_restrict.git
 
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: '>=2.19.6'
+  #flutter: '>=3.3.0'
 
 dependencies:
   flutter:
