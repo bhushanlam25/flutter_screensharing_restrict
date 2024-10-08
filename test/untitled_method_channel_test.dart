@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
+import 'package:flutter_screensharing_restrict/method_channel_flutter_screensharing_restrict.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_screensharing_restrict/MethodChannelFlutterScreensharingRestrict.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
-import 'FlutterScreensharingRestrictPlatform.dart';
+import 'flutter_screensharing_restrict_platform.dart';
 
 
 

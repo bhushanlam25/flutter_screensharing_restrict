@@ -1,6 +1,6 @@
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
-import 'MethodChannelFlutterScreensharingRestrict.dart';
+import 'method_channel_flutter_screensharing_restrict.dart';
 
 
 abstract class FlutterScreensharingRestrictPlatform extends PlatformInterface {
