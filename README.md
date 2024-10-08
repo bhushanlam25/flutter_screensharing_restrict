@@ -14,7 +14,7 @@ Add the plugin to your Flutter project's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_screen_sharing: ^0.0.1
+  flutter_screen_sharing: ^0.0.4
 ```
 
 Then run the following command in your terminal to fetch the plugin:
