@@ -1,11 +1,5 @@
 # Flutter Screensharing Restrict
 
-Here’s a sample `README.md` file for your Flutter plugin that restricts access if certain screen-sharing apps are installed on the device. This documentation explains how the plugin works, how to install it, and how to use it.
-
----
-
-# flutter_screen_sharing
-
 A Flutter plugin to check if specific screen-sharing apps are installed on the user's device and restrict app usage if any of these apps are found. This can help ensure that your app is not running in environments where screen-sharing apps may compromise its security.
 
 ## Features
