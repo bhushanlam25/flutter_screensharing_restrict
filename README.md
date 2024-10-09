@@ -109,10 +109,6 @@ Ensure that the following URL schemes are added to the `ios/Runner/Info.plist` t
 
 Feel free to contribute by submitting issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 
 
 
